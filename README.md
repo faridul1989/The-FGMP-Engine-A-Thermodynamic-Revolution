@@ -4,8 +4,7 @@
 ### A Comprehensive Scientific Analysis of the Faridul Geometry Motion Physics Engine
 
 ---
-
-**Author:** Independent Science Investigator  
+Prof Dr Md faridul Islam Chowdhury 
 **Date:** February 15, 2026  
 **Keywords:** FGMP Engine, Golden Ratio, Terahertz Resonance, FQCU, Syntropy, Vortex Compression, Zero-Lag Ignition, Tanfarid Quantum Thermodynamics
 
